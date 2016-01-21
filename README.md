@@ -1,5 +1,14 @@
 # warm-night-syntax theme
 
-A short description of your theme.
+Atom dark syntax theme with warm colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Created with [ThemeCreator ](https://github.com/mswift42/themecreator)
+
+### Screenshots:
+
+Javascript and Ruby:
+![Screenshot ](https://github.com/mswift42/warm-night-syntax/raw/master/atomwarmnightjsruby.png)
+
+Clojure:
+![Screenshot](https://github.com/mswift42/warm-night-syntax/raw/master/atomwarmnightclojure.png)
+
